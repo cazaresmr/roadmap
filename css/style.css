@@ -5,22 +5,45 @@ body {
   line-height: 2rem;
 }
 
+a {
+  text-decoration: none;
+}
+
 .wrap {
   width: 80%;
   margin: 0 auto;
   background-color: #bbb;
   padding: 5%;
 }
+/* 
+#lapp {
+  display: inline-block;
+  width: 100%;
+  margin-right: 20px;
+  background-color: #ccc;
+}
 
-a {
+#lapp a {
+  width: 100%;
+  margin: 0 auto;
+  padding: 25px;
+}
+
+td a {
   text-decoration: none;
-  font-weight: bolder;
+  font-size: 0.75rem;
 }
 
 ul {
   margin-left: 0;
+  list-style-type: none;
 }
+
 nav ul li {
   display: inline-block;
   list-style-type: none;
 }
+
+table {
+  width: 100%;
+} */
